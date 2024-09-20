@@ -2,6 +2,9 @@
 
 ### 1. **Network Diagram Overview**
 This lab involves troubleshooting and extending an OSPF network. Key tasks include configuring a newly added serial connection between routers R1 and R2, fixing routing issues to a specific subnet, resolving OSPF neighbor adjacency problems, and troubleshooting PC connectivity to an external server (8.8.8.8).
+
+<img src="https://github.com/ro-drick/OSPF-Configuration-Part-3/blob/main/ospf-3.PNG">
+
 #### Objectives
 The network has been pre-configured (IP addresses, OSPF)
 
